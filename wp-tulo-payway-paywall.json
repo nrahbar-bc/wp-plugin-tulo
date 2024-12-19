@@ -2,10 +2,6 @@
 	"name": "Tulo Payway and Paywall",
 	"version": "0.6.1",
 	"download_url": "https://github.com/nrahbar-bc/wp-plugin-tulo/releases/download/latest/wp-tulo-payway-paywall.zip",
-	"requires": "4.5",
-	"tested": "4.8",
-	"last_updated": "2024-12-19 16:17:00",
-	"upgrade_notice": "Here's why you should upgrade...",
 	"author": "Nima Rahbar",
 	"sections": {
 		"description": "Tulo functionalities, WordPress integration"
