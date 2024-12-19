@@ -1,0 +1,12 @@
+{
+  "name": "Tulo Payway and Paywall",
+  "slug": "wp-tulo-payway-paywall",
+  "version": "0.6.1",
+  "download_url": "https://github.com/nrahbar-bc/wp-plugin-tulo/releases/download/latest/wp-tulo-payway-paywall.zip",
+  "tested": "6.3",
+  "requires": "5.0",
+  "author": "Nima Rahbar",
+  "changelog": {
+    "0.6.1": "window.jscd fixed!",
+  }
+}
