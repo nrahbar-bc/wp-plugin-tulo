@@ -1,7 +1,7 @@
 {
 	"name": "Tulo Payway and Paywall",
 	"version": "0.6.2",
-	"download_url": "https://github.com/nrahbar-bc/wp-plugin-tulo/releases/download/latest/wp-tulo-payway-paywall.zip",
+	"download_url": "https://github.com/nrahbar-bc/wp-plugin-tulo/releases/download/v0.6.2/wp-tulo-payway-paywall.zip",
 	"author": "Nima Rahbar",
 	"sections": {
 		"description": "Tulo functionalities, WordPress integration"
