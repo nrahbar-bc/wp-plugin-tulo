@@ -5,6 +5,6 @@
 	"author": "Nima Rahbar",
 	"sections": {
 		"description": "Tulo functionalities, WordPress integration",
-		"changelog": "<ul><li>The KB IP added to the plugin's option page</li><li>The KB bypass added to the plugin</li><ul>"
+		"changelog": "<h4>Version 0.6.6:</h4> <ul><li>The KB IP added to the plugin's option page</li><li>The KB bypass added to the plugin</li><ul>"
 	}
 }
