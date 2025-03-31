@@ -1,10 +1,10 @@
 {
 	"name": "Tulo Payway and Paywall",
-	"version": "0.6.8",
+	"version": "0.6.9",
 	"download_url": "https://github.com/nrahbar-bc/wp-plugin-tulo/releases/download/latest/wp-tulo-payway-paywall.zip",
 	"author": "Nima Rahbar",
 	"sections": {
 		"description": "Tulo functionalities, WordPress integration",
-		"changelog": "<h4>Version 0.6.8:</h4><ul><li>Changing LiveWrapper variable to lwhb.</li></ul><h4>Version 0.6.7:</h4><ul><li>Fixing the embedded scripts after bypassing the paywall.</li></ul><h4>Version 0.6.6:</h4><ul><li>The KB IP added to the plugin's option page</li><li>The KB bypass added to the plugin</li><ul>"
+		"changelog": "<h4>Version 0.6.9:</h4><ul><li>Allowed loading of the ShowHeroes script to support new video player functionality.</li></ul><h4>Version 0.6.8:</h4><ul><li>Changing LiveWrapper variable to lwhb.</li></ul><h4>Version 0.6.7:</h4><ul><li>Fixing the embedded scripts after bypassing the paywall.</li></ul><h4>Version 0.6.6:</h4><ul><li>The KB IP added to the plugin's option page</li><li>The KB bypass added to the plugin</li><ul>"
 	}
 }
